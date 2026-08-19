@@ -18,4 +18,3 @@ and extracting sail numbers using object detection and OCR.
 Raspberry Pi computer-vision system using Python, Kotlin and MQTT
 for real-time image processing and wireless control.
 
-[View all repositories →](...)
