@@ -1,16 +1,21 @@
-## Hi there 👋
+# Toby Stanislaus
 
-<!--
-**TobyStanislaus/TobyStanislaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematics student at the University of Warwick interested in
+algorithms, machine learning and software engineering.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Chess Engine
+C++ chess engine implementing object-oriented piece architecture,
+minimax/alpha-beta pruning and Monte Carlo Tree Search, with an
+AlphaZero-style PyTorch model integrated through ONNX Runtime.
+
+### Boat Image Recognition
+End-to-end computer vision pipeline for detecting sailing boats
+and extracting sail numbers using object detection and OCR.
+
+### Real-Time Computer Vision
+Raspberry Pi computer-vision system using Python, Kotlin and MQTT
+for real-time image processing and wireless control.
+
+[View all repositories →](...)
